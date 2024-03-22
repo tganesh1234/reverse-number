@@ -7,7 +7,7 @@ public class Reversenumber {
 	public static void main(String[] args) {
 		// print the reverse number of given number
 		int n,a,b=0;
-		System.out.print("enter the 4 digit number :");
+		System.out.print("enter a number :");
 		Scanner sc=new Scanner(System.in);
 		n=sc.nextInt();
 		while(n>0){
